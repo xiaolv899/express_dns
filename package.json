@@ -1,0 +1,10 @@
+{
+  "name": "express-dns",
+  "version": "0.0.1",
+  "scripts": {
+      "start": "node ./app"
+  },
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
